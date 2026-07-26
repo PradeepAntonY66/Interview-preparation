@@ -57,34 +57,34 @@
 
 ## Topics
 
-Load Balancer
-Reverse Proxy
-CDN
-Database Sharding
-Replication
-Partitioning
-Cache
-Message Queue
-Event Driven Architecture
-Microservices
-CAP Theorem
-Consistency Models
+1. Load Balancer
+2. Reverse Proxy
+3. CDN
+4. Database Sharding
+5. Replication
+6. Partitioning
+7. Cache
+8. Message Queue
+9. Event Driven Architecture
+10. Microservices
+11. CAP Theorem
+12. Consistency Models
 
 ## Small systems
 
-URL Shortener
-Rate Limiter
-Chat Application    
-Notification System
-Cache
+1. URL Shortener
+2. Rate Limiter
+3. Chat Application    
+4. Notification System
+5. Cache
 
 ## Large systems
 
-YouTube
-WhatsApp
-Uber
-Netflix
-Instagram Feed
+1. YouTube
+2. WhatsApp
+3. Uber
+4. Netflix
+5. Instagram Feed
 
 # Behavioral Interviews
 

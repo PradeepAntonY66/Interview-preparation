@@ -1,0 +1,26 @@
+/**
+ * ArraySortedOrNot
+ */
+public class ArraySortedOrNot {
+
+    public static void main(String[] args) {
+        int[] arr = {1,2,3,4,5};
+        if (arr == null || arr.length == 0 ) {
+            throw new IllegalArgumentException("Array must not be empty or null");
+        }else{
+            System.out.println(isSorted(arr));    
+        }
+    }
+        public static boolean isSorted(int[] arr){
+            boolean sorted = true;
+            for(int i = 0 ; i < arr.length-1; i++){
+            if (arr[i] > arr[i+1]) {
+                sorted = false;
+                break;
+            }
+        }
+        return sorted;
+
+    }
+
+}

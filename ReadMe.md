@@ -110,3 +110,26 @@
 5. Explain your optimized solution before coding.
 6. Write clean, readable code.
 7. Test with small examples and edge cases.
+
+
+# Companies
+
+1. Zoho
+2. Freshworks
+3. Hexaware
+4. CoinDCX
+5. GoKwik
+6. CommerceIQ
+7. Adtran
+8. Atlassian
+9. TCS
+10. Accenture
+11. Wipro
+12. IBM
+13. L&T
+14. Virtusa 
+15. Photon
+16. Gainwell
+17. Wissen
+18. Corp
+19. Connecting 2 work

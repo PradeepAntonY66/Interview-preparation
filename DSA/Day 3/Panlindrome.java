@@ -4,7 +4,8 @@ Explanation: "amanaplanacanalpanama" is a palindrome. */
 
 public class Panlindrome {
     public static void main(String[] args) {
-        System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
+        System.out.println(-4 * -4);
+        //System.out.println(isPalindrome("A man, a plan, a canal: Panama"));
     }
 
     public static boolean isPalindrome(String s) {

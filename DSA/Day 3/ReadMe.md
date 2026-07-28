@@ -20,8 +20,7 @@
 
 1. Squares of a Sorted Array (LeetCode 977)
 2. Merge Sorted Array (LeetCode 88)
-3. Squares of Sorted Array
-4. Container With Most Water (LeetCode 11) (optional)
+3. Container With Most Water (LeetCode 11) (optional)
 
 
 # Things learned while solved array problems

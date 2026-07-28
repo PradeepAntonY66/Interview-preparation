@@ -133,3 +133,14 @@
 17. Wissen
 18. Corp
 19. Connecting 2 work
+
+Microsoft (Software Engineer)
+Atlassian (Associate Software Engineer)
+Walmart Global Tech (Software Engineer)
+JPMorgan Chase (Software Engineer)
+Visa (Software Engineer)
+Oracle (Associate Software Engineer)
+Adobe (MTS/Software Engineer, where applicable)
+Zoho (SDE roles)
+Freshworks (Software Engineer)
+Salesforce (Associate MTS)

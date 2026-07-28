@@ -22,3 +22,11 @@
 2. Merge Sorted Array (LeetCode 88)
 3. Squares of Sorted Array
 4. Container With Most Water (LeetCode 11) (optional)
+
+
+# Things learned while solved array problems
+
+1. String functions
+    1. string_variable.toLowerCase() => converts the uppercase letters and return string as lowercase.
+    2. string_variable.replaceAll(regExp,string) => returns the string which satisfies the regExp condition.
+        1. Check Palindrome problem

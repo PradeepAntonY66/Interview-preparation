@@ -1,0 +1,6 @@
+# Round 1 
+1. Pointers
+2.Strings
+3. Loops
+4. Complex and Nested Loops
+5. Control Flows
